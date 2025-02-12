@@ -2,9 +2,8 @@
 
 Here is a direct link to the Derm Foundation embeddings of DERM12345 dataset to download:
 
-| Embeddings| Size |
+| File| Size |
 | --- | ---: |
-| [Click to Download](
-https://github.com/abdurrahimyilmaz/derm12345_google-derm-foundation/releases/download/v1.0.0/derm12345_google-derm-foundation-model_embeddings.npz) | 583 MiB |
+| [Embeddings](https://github.com/abdurrahimyilmaz/derm12345_google-derm-foundation/releases/download/v1.0.0/derm12345_google-derm-foundation-model_embeddings.npz) | 583 MiB |
 
 

@@ -1,6 +1,6 @@
 # The Derm Foundation Embeddings of DERM12345 Dataset and Tutorial
 
-[![Embeddings Data License](https://img.shields.io/badge/Data%20License-CC%20By%204.0-red.svg)](https://github.com/abdurrahimyilmaz/DermaSynth/DATA_LICENSE)
+[![Embeddings License](https://img.shields.io/badge/Embeddings%20License-CC%20By%204.0-red.svg)](https://github.com/abdurrahimyilmaz/DermaSynth/DATA_LICENSE)
 
 This is a repository for the tutorial of the Derm Foundation Model and DERM12345 dataset.
 

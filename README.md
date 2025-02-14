@@ -4,6 +4,10 @@
 
 This is a repository for the tutorial of the Derm Foundation Model and DERM12345 dataset.
 
+| File| Code Link |
+| --- | ---: |
+| **Tutorial Code**      | [▶️ Start](https://colab.research.google.com/github/abdurrahimyilmaz/derm12345_google-derm-foundation/blob/main/derm12345_derm_foundation_tutorial.ipynb) 
+
 Here is a direct link to the Derm Foundation embeddings of DERM12345 dataset to download:
 
 | File| Size |

@@ -28,3 +28,12 @@ Data citation:
   publisher={Nature Publishing Group UK London}
 }
 ```
+
+Related Links
+<ul>
+<li><a href="https://github.com/abdurrahimyilmaz/derm12345" target="_blank">DERM12345 GitHub Link</a></li>
+  <li><a href="https://api.isic-archive.com/doi/derm12345" target="_blank">ISIC Link</a></li>
+  <li><a href="https://github.com/abdurrahimyilmaz/derm12345_google-derm-foundation" target="_blank">Google Derm Foundation Tutorial and Embeddings</a></li>
+  <li><a href="https://github.com/Google-Health/derm-foundation/tree/master/notebooks" target="_blank">Google Derm Foundation Notebooks</a></li>
+  <li><a href="https://developers.google.com/health-ai-developer-foundations/derm-foundation/model-card" target="_blank">Google Derm Foundation Model Card</a></li>
+</ul>
